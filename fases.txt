@@ -1,0 +1,6 @@
+OBJETIVO PRINCIPAL - salva a princesa do calabouço
+Fase 1
+- Objetivo
+	-Sobreviver(de preferencia)
+	-pegar os tesouros
+	-matar todos os inimigos 
