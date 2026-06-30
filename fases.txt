@@ -9,3 +9,9 @@ Fase 2
 	-matar o dragão
  	-pegar mais tesouros
 	-impedir o bardo de seduzir o dragão(opcional)
+Fase 3
+-Objetivo
+	-matar o lorde demônio
+	-roubar todas as riquezas do lorde
+ 	-escolher entre dominar o mundo o devolver a princesa
+	-(Se escolher dominar o mundo um novo grupo de heróis vai surgir para salvar a princesa, novo loop)
