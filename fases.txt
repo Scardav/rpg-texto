@@ -4,3 +4,8 @@ Fase 1
 	-Sobreviver(de preferencia)
 	-pegar os tesouros
 	-matar todos os inimigos 
+Fase 2
+-Objetivo 
+	-matar o dragão
+ 	-pegar mais tesouros
+	-impedir o bardo de seduzir o dragão(opcional)
